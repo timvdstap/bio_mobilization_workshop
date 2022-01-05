@@ -17,7 +17,20 @@ keypoints:
 1. Creating EML metadata text file
 2. QA/QC
 
+# Data QA/QC
+> ## Exercise: Run multiple QA/QC checks on your Event and Occurrence table
+>
+> Challenge: Use [package] and/or [package] to plot the data, and determine outliers
+> 
+> TODO: Provide a (link to) dataframe to run the packages on?
+>
+> > ## Solution
+> > TODO: list the issues here?
+> > {: .output}
+> {: .solution}
+{: .challenge}
 
+# Data validation
 > ## Exercise : Try the GBIF DwC Validator
 > 
 > Challenge: Use the GBIF data validator to check a DwC archive file & see the issues with it.
