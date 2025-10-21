@@ -151,6 +151,9 @@
     <loc>https://ioos.github.io/bio_mobilization_workshop/acoustic-telemetry.html</loc>
   </url>
   <url>
+    <loc>https://ioos.github.io/bio_mobilization_workshop/aio.html</loc>
+  </url>
+  <url>
     <loc>https://ioos.github.io/bio_mobilization_workshop/controlled-vocab.html</loc>
   </url>
   <url>
@@ -158,6 +161,9 @@
   </url>
   <url>
     <loc>https://ioos.github.io/bio_mobilization_workshop/helpful-tutorials.html</loc>
+  </url>
+  <url>
+    <loc>https://ioos.github.io/bio_mobilization_workshop/images.html</loc>
   </url>
   <url>
     <loc>https://ioos.github.io/bio_mobilization_workshop/index.html</loc>
@@ -196,6 +202,9 @@
     <loc>https://ioos.github.io/bio_mobilization_workshop/instructor/acoustic-telemetry.html</loc>
   </url>
   <url>
+    <loc>https://ioos.github.io/bio_mobilization_workshop/instructor/aio.html</loc>
+  </url>
+  <url>
     <loc>https://ioos.github.io/bio_mobilization_workshop/instructor/controlled-vocab.html</loc>
   </url>
   <url>
@@ -205,13 +214,28 @@
     <loc>https://ioos.github.io/bio_mobilization_workshop/instructor/helpful-tutorials.html</loc>
   </url>
   <url>
+    <loc>https://ioos.github.io/bio_mobilization_workshop/instructor/images.html</loc>
+  </url>
+  <url>
     <loc>https://ioos.github.io/bio_mobilization_workshop/instructor/index.html</loc>
+  </url>
+  <url>
+    <loc>https://ioos.github.io/bio_mobilization_workshop/instructor/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://ioos.github.io/bio_mobilization_workshop/instructor/key-points.html</loc>
   </url>
   <url>
     <loc>https://ioos.github.io/bio_mobilization_workshop/instructor/profiles.html</loc>
   </url>
   <url>
     <loc>https://ioos.github.io/bio_mobilization_workshop/instructor/reference.html</loc>
+  </url>
+  <url>
+    <loc>https://ioos.github.io/bio_mobilization_workshop/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://ioos.github.io/bio_mobilization_workshop/key-points.html</loc>
   </url>
   <url>
     <loc>https://ioos.github.io/bio_mobilization_workshop/profiles.html</loc>
