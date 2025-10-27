@@ -1,6 +1,6 @@
 "file" "checksum" "built" "date"
 "config.yaml" "2dc44ad8000faa90d83f6a3d21f9e0ec" "site/built/config.yaml" "2025-10-15"
-"index.md" "0f96a196f0b9b640df9a8bafdb05396a" "site/built/index.md" "2025-10-27"
+"index.md" "5baaa01f83d397ea8a46c391f6cbadfd" "site/built/index.md" "2025-10-27"
 "links.md" "8184cf4149eafbf03ce8da8ff0778c14" "site/built/links.md" "2025-10-15"
 "episodes/01-introduction.md" "a062f08770efa0003dba727edf232d06" "site/built/01-introduction.md" "2025-10-23"
 "episodes/02-break.md" "65d799cdaeb1d225b41514999112b7cc" "site/built/02-break.md" "2025-10-15"
